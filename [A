@@ -1,0 +1,17 @@
+[33mcommit b6b860277a34458075a4a84ea28b4feb8692f714[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Burhan Otour <burhan.otour@gmail.com>
+Date:   Wed Jul 4 12:25:31 2018 +0200
+
+    Enhance component implementation (custom pipes, interface def, life cycles hooks, list filters, component styles)
+
+[33mcommit c59c98dd2c113c95d2ea07f7f7179b23b29af5a4[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Burhan Otour <burhan.otour@gmail.com>
+Date:   Thu May 31 02:43:42 2018 +0200
+
+    Add enhancments to basic list component
+
+[33mcommit 91415d12bd50c253b0f92a6569879f266318beb2[m
+Author: Burhan Otour <burhan.otour@gmail.com>
+Date:   Wed May 30 00:37:24 2018 +0200
+
+    initial code with simple product list view component
