@@ -1,3 +1,8 @@
+# Goal
+angular-shop serves as an Angualr reference project. It utilizes most Agnualr framework features and implements its concepts in a runnung example. 
+
+This project is added by me in order to learn the right Angular right! 
+
 # APM
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.4.
